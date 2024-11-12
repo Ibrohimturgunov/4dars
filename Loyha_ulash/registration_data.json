@@ -1,0 +1,52 @@
+{
+    "obyectlar": [
+        {
+            "Name": "a",
+            "Age": "a",
+            "Login": "a",
+            "Password": "aziz123@"
+        },
+        {
+            "Name": "aziz",
+            "Age": "12",
+            "Login": "aziz",
+            "Password": "aziz1@"
+        },
+        {
+            "Name": "a",
+            "Age": "",
+            "Login": "aa",
+            "Password": "aaaaaa1!"
+        },
+        {
+            "Name": "aziz",
+            "Age": "12",
+            "Login": "Aziz",
+            "Password": "aziz!a1"
+        },
+        {
+            "Name": "a",
+            "Age": "23",
+            "Login": "a",
+            "Password": "123qwe!@#"
+        },
+        {
+            "Name": "Abbosbek",
+            "Age": "21",
+            "Login": "Oktyabrov",
+            "Password": "123qweQ!@#"
+        },
+        {
+            "Name": "Davlat",
+            "Age": "23",
+            "Login": "Salimov",
+            "Password": "1Q!davlat"
+        },
+        {
+            "Name": "a",
+            "Age": "12",
+            "Login": "a",
+            "Password": "self.resize(450, 500)"
+        }
+    ]
+}

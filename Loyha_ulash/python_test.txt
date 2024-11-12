@@ -1,0 +1,24 @@
+1)Python dasturlash tilining asosiy maqsadi nima?
+A) Ilovalarni test qilish
+B) Veb-sahifalarni tahrirlash
+C) Har xil dasturlarni yaratish
+---
+2)Python dasturlash tili qanday fayl kengaytmasi bilan saqlanadi?
+A) .txt
+B) .py
+C) .java
+---
+3)Pythonda ro'yxatlarni qanday belgilash kerak?
+A) { }
+B) [ ]
+C) ( )
+---
+4)Python dasturlash tilida qaysi funksiya yordamida ekranga ma'lumot chiqarish mumkin?
+A) print()
+B) input()
+C) display()
+---
+5)Python dasturlash tilida qanday sharh (comment) yoziladi?
+A) //
+B) #
+C) <!-- -->
